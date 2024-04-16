@@ -4,6 +4,7 @@
 https://www.bezkoder.com/jpa-repository-query/
 https://www.bezkoder.com/spring-boot-jpa-h2-example/#google_vignette
 https://youtu.be/PSrHcCwvfVQ?si=ao7JLReDt6pY4DQ3
-2. Spring Boot + SQL Server: CRUD Operations
+2. Spring Boot + SQL Server: CRUD Operations (Way to use SQL Server maven dependency in Spring Boot. How to configure Spring Data, JPA,  Hibernate to work with Database
+How to define Data Models and Repository interfaces. Way to create Spring Rest Controller to process HTTP requests. Way to use Spring Data JPA to interact with MSSQL Database. https://www.bezkoder.com/spring-boot-sql-server/ 
 3. 
 https://www.youtube.com/playlist?list=PLG5RS5k7TfUpgO0B2SEWwSs6jRwL8QiHw
